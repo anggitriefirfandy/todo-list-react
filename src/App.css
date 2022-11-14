@@ -1,0 +1,51 @@
+/* background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(167,0,139,1) 35%, rgba(0,212,255,1) 100%);  */
+body {
+  background-color: rgb(2, 0, 36);
+}
+:root {
+  text-align: center;
+}
+.list {
+  list-style: none;
+}
+.buttonFilter {
+  margin: 15px 0px;
+}
+/* .btn {
+  padding: 5px;
+  margin-right: 10px;
+}  */
+.wrap-list {
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+ul {
+  padding: 0px 2rem;
+}
+.todos-header {
+  margin-top: 40px;
+  margin-bottom: 25px;
+}
+.todos-header > h1 {
+  margin-bottom: 40px;
+}
+.group-input {
+  padding: 0px 30px;
+}
+.all {
+  background-color: aqua;
+  border-radius: 20%;
+  padding: 5px 20px;
+}
+.active {
+  background-color: darkseagreen;
+  border-radius: 20%;
+  padding: 5px 10px;
+  margin: 0px 10px;
+}
+.completed {
+  background-color: blueviolet;
+  border-radius: 20%;
+  padding: 5px 5px;
+}

@@ -1,0 +1,45 @@
+.todolist {
+  border: 20px;
+}
+.list-todo {
+  border: 1px solid;
+  padding: 10px ;
+  margin: 10px 0px;
+  margin-right: 10px;
+  padding-right: 25%;
+}
+
+.todolist-header {
+  text-align: center;
+}
+
+.listData {
+  margin: 0% 15%;
+}
+
+.input-todo {
+  padding: 15px 0px;
+  margin: 0% 15
+}
+
+#submit-list {
+  background-color:cornflowerblue;
+  margin-left: 10px;
+  padding: 7px 15px;
+}
+
+.inputTodo {
+padding: 7px 4px;
+padding-right: 42%;
+}
+
+#button-group {
+  padding-top: 2%;
+  text-align: center;
+} 
+.App {
+  background-image: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+:root {
+  background-image: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
